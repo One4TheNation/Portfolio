@@ -4,7 +4,7 @@ My Challenge Work Process
 
     1. Used Gif to layout the webpage
 
-![Project Portfolio Layout](.assets/images/layout.png)
+![Project Portfolio Layout](./assets/images/layout.png)
 
     2. Layed out the webpage by building a html skelton 
     3. Defined Color Pallet
@@ -13,7 +13,7 @@ My Challenge Work Process
     5. Commented on each section to help with keep track of each section 
     6. Used all resource to help make sure the page was fluent and able to scale
 
-![Project Portfolio Website](.assets/images/Screen.gif)
+![Project Portfolio Website](./assets/images/Screen.gif)
 
     A. Made sure to use right syntex structure to have code be more presentable (cleaned up)
     B. Added section dividers to each section using this structure: <!--blank-->
