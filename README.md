@@ -20,3 +20,6 @@ My Challenge Work Process
     C. Consolidated consolidated code and expanded on classes 
 
 [deployed link](https://one4thenation.github.io/Portfolio/)
+
+    *Updated*
+    D. Add + on pictures to create link to new page on (picture snytex kept breaking)
